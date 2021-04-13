@@ -20,5 +20,5 @@ Inside app.css, change the link of the background image to your own. I added an 
 
 The application is now ready to use the model. Restart both services after building the UI using `npm run build`. The application looks like below:
 
-<img src="https://github.com/KarteekMenda93/IrisData_React_Flask/blob/main/Capture.PNG"/>
+<img src="https://github.com/KarteekMenda93/IrisData_React_Flask/blob/main/Iris.PNG"/>
 
